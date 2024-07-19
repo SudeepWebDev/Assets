@@ -21,7 +21,7 @@
     "subject": "English"
   },
   {
-    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/SocialStudies.png",
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/Social Studies.png",
     "title": "Social Studies",
     "description": "Comprehensive notes on History and Geography for 9th grade",
     "class": "9th",
@@ -49,7 +49,7 @@
     "subject": "English"
   },
   {
-    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/SocialStudies.png",
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/Social Studies.png",
     "title": "Social Studies",
     "description": "Detailed notes on History and Geography for 10th grade",
     "class": "10th",
@@ -96,7 +96,7 @@
     "stream": "Commerce"
   },
   {
-    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/BusinessStudies.png",
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/Business Studies.png",
     "title": "Business Studies",
     "description": "Detailed notes on Business Management and Organization for 11th grade",
     "class": "11th",
@@ -128,7 +128,7 @@
     "stream": "Arts"
   },
   {
-    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/PoliticalScience.png",
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/Political Science.png",
     "title": "Political Science",
     "description": "In-depth notes on Political Theories and Government for 11th grade",
     "class": "11th",
