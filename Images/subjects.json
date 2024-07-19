@@ -1,0 +1,138 @@
+[
+  {
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/Mathematics.png",
+    "title": "Mathematics",
+    "description": "Comprehensive notes for 9th grade Mathematics",
+    "class": "9th",
+    "subject": "Mathematics"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/Science.png",
+    "title": "Science",
+    "description": "Detailed notes on Physics and Chemistry for 9th grade",
+    "class": "9th",
+    "subject": "Science"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/English.png",
+    "title": "English",
+    "description": "In-depth notes on Grammar and Literature for 9th grade",
+    "class": "9th",
+    "subject": "English"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/SocialStudies.png",
+    "title": "Social Studies",
+    "description": "Comprehensive notes on History and Geography for 9th grade",
+    "class": "9th",
+    "subject": "Social Studies"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/Mathematics.png",
+    "title": "Mathematics",
+    "description": "Detailed notes on Algebra and Geometry for 10th grade",
+    "class": "10th",
+    "subject": "Mathematics"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/Science.png",
+    "title": "Science",
+    "description": "In-depth notes on Physics and Chemistry for 10th grade",
+    "class": "10th",
+    "subject": "Science"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/English.png",
+    "title": "English",
+    "description": "Comprehensive notes on Grammar and Literature for 10th grade",
+    "class": "10th",
+    "subject": "English"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/SocialStudies.png",
+    "title": "Social Studies",
+    "description": "Detailed notes on History and Geography for 10th grade",
+    "class": "10th",
+    "subject": "Social Studies"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/Physics.png",
+    "title": "Physics",
+    "description": "In-depth notes on Mechanics and Thermodynamics for 11th grade",
+    "class": "11th",
+    "subject": "Physics",
+    "stream": "Science"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/Chemistry.png",
+    "title": "Chemistry",
+    "description": "Comprehensive notes on Organic and Inorganic Chemistry for 11th grade",
+    "class": "11th",
+    "subject": "Chemistry",
+    "stream": "Science"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/Mathematics.png",
+    "title": "Mathematics",
+    "description": "Detailed notes on Calculus and Algebra for 11th grade",
+    "class": "11th",
+    "subject": "Mathematics",
+    "stream": "Science"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/Biology.png",
+    "title": "Biology",
+    "description": "In-depth notes on Botany and Zoology for 11th grade",
+    "class": "11th",
+    "subject": "Biology",
+    "stream": "Science"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/Economics.png",
+    "title": "Economics",
+    "description": "Comprehensive notes on Microeconomics and Macroeconomics for 11th grade",
+    "class": "11th",
+    "subject": "Economics",
+    "stream": "Commerce"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/BusinessStudies.png",
+    "title": "Business Studies",
+    "description": "Detailed notes on Business Management and Organization for 11th grade",
+    "class": "11th",
+    "subject": "Business Studies",
+    "stream": "Commerce"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/Accounts.png",
+    "title": "Accounts",
+    "description": "In-depth notes on Accounting and Management for 11th grade",
+    "class": "11th",
+    "subject": "Accounts",
+    "stream": "Commerce"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/History.png",
+    "title": "History",
+    "description": "Comprehensive notes on Ancient and Modern History for 11th grade",
+    "class": "11th",
+    "subject": "History",
+    "stream": "Arts"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/Geography.png",
+    "title": "Geography",
+    "description": "Detailed notes on Physical and Human Geography for 11th grade",
+    "class": "11th",
+    "subject": "Geography",
+    "stream": "Arts"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/SudeepWebDev/Assets/main/Images/PoliticalScience.png",
+    "title": "Political Science",
+    "description": "In-depth notes on Political Theories and Government for 11th grade",
+    "class": "11th",
+    "subject": "Political Science",
+    "stream": "Arts"
+  }
+]
