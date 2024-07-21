@@ -1,1 +1,29 @@
+{
+  "classes": {
+    "9": {
+      "subjects": {
+        "Science": "Sudeep Kumar Singh",
+        "Social Studies": "Harsh"
+      }
+    },
+    "10": {
+      "subjects": {
+        "Science": "Sudeep Kumar Singh",
+        "Social Studies": "Harsh"
+      }
+    },
+    "11": {
+      "subjects": {
+        "Geography": "Abhimanu Sharma",
+        "Economics": "Rajan Sharma"
+      }
+    },
+    "12": {
+      "subjects": {
+        "Geography": "Abhimanu Sharma",
+        "Economics": "Rajan Sharma"
+      }
+    }
+  }
+}
 
